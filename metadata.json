@@ -1,0 +1,5 @@
+{
+  "name": "Bell Automation PWA",
+  "description": "A Progressive Web App to manage and automate a bell system in real-time, with different modes for regular schedules and exams, and an emergency SOS feature.",
+  "requestFramePermissions": []
+}
